@@ -64,3 +64,6 @@ A MySQL project that analyses a food delivery database (think Swiggy/Zomato styl
 
 - MySQL
 - MySQL Workbench
+
+- ## ER Diagram
+![ER Diagram](er_diagram.png)
